@@ -1,0 +1,5 @@
+{
+  "name": "Neon Runner",
+  "description": "An endless 3D runner game inspired by Temple Run and Geometry Dash, built with React and Three.js.",
+  "requestFramePermissions": []
+}
